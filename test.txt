@@ -1,0 +1,3 @@
+i am trying to learn devops and about them we are learning in jenkins
+jenkins is a automation tools
+in jenkins we can creating freestyle project, mevan project, and pipeline project
